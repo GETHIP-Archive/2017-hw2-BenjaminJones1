@@ -1,10 +1,10 @@
 {
-    "firstName":"Logan",
-    "lastName":"Fitzgibbons",
-    "age":21,
-    "picture": "https://pbs.twimg.com/profile_images/425447212626083840/DqyqYfax.jpeg",
-    "nickNames": [
-        {"nick": "Fitz"},
-        {"nick": "Big Money"}
-    ]
+  "firstName":"Benjamin",
+  "lastName":"Jones",
+  "age":17,
+  "height":"6'2",
+  "picture":"http://www.american.edu/uploads/profiles/large/chris_palmer_profile_11.jpg",
+  "nicknames": [
+    {"Nick": "Ben"},
+  ]
 }
